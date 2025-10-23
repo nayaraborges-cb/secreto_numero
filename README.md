@@ -1,4 +1,4 @@
-# 🎮 Jogo de Adivinhação
+## 🎮 Jogo de Adivinhação
 
 Uma página web simples onde o usuário precisa adivinhar qual é o número secreto.  
 O jogo gera um número aleatório e dá dicas se o palpite do jogador é **maior** ou **menor** do que o número correto.
